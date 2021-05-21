@@ -1,6 +1,6 @@
 # Welcome to Prop Driller 9000!
 
-## Step 1
+## Step 1 [x] DONE
 ![Step 1](/src/assets/Step_1.png)
 * Get the logo to show up in the header!
 * Use the given component needed.
